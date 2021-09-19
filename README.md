@@ -1,2 +1,2 @@
-# Image-Classification-By-Tensorflow
-IOmplement convolutional neural network for image classification on Fashion-MNIST dataset.
+# Image-Classification-using-CNN
+Immplement convolutional neural network for image classification on Fashion-MNIST dataset.
